@@ -20,7 +20,7 @@ body:after {
 }
 
 body:before {
-    content: "Bedankt Copyright Wolfgaming#4232";
+    content: "Copyright Wolfgaming#4232, Alle rechten voorbehouden.";
     z-index: 1000000000000000000000000;
     color: #fff;
     background: var(--main-color);
