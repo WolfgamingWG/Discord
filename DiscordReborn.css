@@ -2,7 +2,7 @@
 :root {--version-content: "6.5";}
 
 body:after {
-    content: "Versie: v" var(--version-content);
+    content: "Speciaal voor Hein (YouAreDead01)";
     z-index: 10000000000000000000000000;
     color: #fff;
     background: var(--main-color);
@@ -21,24 +21,6 @@ body:after {
 
 body:before {
     content: "Copyright Wolfgaming#4232, Alle rechten voorbehouden.";
-    z-index: 1000000000000000000000000;
-    color: #fff;
-    background: var(--main-color);
-    top: 0px;
-    left: 50%;
-    position: absolute;
-    border-radius: 5px;
-    padding: 5px 15px;
-    -webkit-transform: translate(-50%, -100%);
-    transform: translate(-50%, -100%);
-    -webkit-animation: version 3s ease;
-    animation: version 3s ease;
-    -webkit-animation-delay: 4s;
-    animation-delay: 9s;
-}
-
-body:after {
-    content: "Speciaal voor Hein (YouAreDead01)!";
     z-index: 1000000000000000000000000;
     color: #fff;
     background: var(--main-color);
