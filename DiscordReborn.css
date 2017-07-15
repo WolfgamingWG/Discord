@@ -37,7 +37,7 @@ body:before {
     animation-delay: 9s;
 }
 
-body:before {
+body:after {
     content: "Speciaal voor Hein (YouAreDead01)!";
     z-index: 1000000000000000000000000;
     color: #fff;
