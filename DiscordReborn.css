@@ -20,7 +20,7 @@ body:after {
 }
 
 body:before {
-    content: "Copyright Wolfgaming#4232, Alle rechten voorbehouden.";
+    content: "Copyright Wolfgaming#4232, Speciaal voor Hein!";
     z-index: 1000000000000000000000000;
     color: #fff;
     background: var(--main-color);
